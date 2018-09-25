@@ -33,3 +33,6 @@ Clearly something's wrong.
 Referring back to the changing job codes - here's before and after 2009 again. 
 
 Actually eh I think I'm going to go and try to aggregate a little bit. 
+
+Marimekko Chart: 
+For more information on what a Marimekko chart is and how to make one, see http://duelingdata.blogspot.com/2018/08/marimekko-slope-chart.html (this is my boss, he's dope)
